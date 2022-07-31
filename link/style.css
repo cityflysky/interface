@@ -7,11 +7,12 @@
   height: 10vh;
     width: 30vw;
 }
+#docs,
 #apple,
 #twitter,
 #github,
 #facebook {
-  font-size: 3em;
+  font-size: 2.5em;
   background-color: #18191f;
   color: #fff;
   box-shadow: 2px 2px 2px #00000080, 10px 1px 12px #00000080,
@@ -27,6 +28,9 @@
 }
 #twitter {
   animation-delay: 0.3s;
+}
+#docs{
+    animation-delay: 0.5s;
 }
 #facebook {
   animation-delay: 0.7s;
