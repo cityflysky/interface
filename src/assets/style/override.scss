@@ -1,0 +1,26 @@
+.ant-tooltip-inner{
+  padding: 10px;
+  border-radius: 10px;
+}
+.ant-message{
+  z-index: 10000!important;
+}
+.ant-message-notice{
+  &:first-child{
+    margin-top: 30vh;
+  }
+}
+.ant-btn{
+  height: auto;
+  span{
+    color: #613A00;
+  }
+  &:active{
+    color: #333!important;
+    border:none!important;
+  }
+  &:hover{
+    color: #333!important;
+    border:none!important;
+  }
+}

@@ -1,0 +1,1 @@
+import vault from "@/store/modules/abisMethods/vault";import stake from "@/store/modules/abisMethods/stake";import erc721 from "@/store/modules/abisMethods/erc721";import erc20 from "@/store/modules/abisMethods/erc20";export default { vault,stake,erc721,erc20,}
